@@ -1,0 +1,9 @@
+*.obj
+*.c
+*.ppo
+*.mpm
+*.exe
+*.dbf
+*.fpt
+*.cdx
+obj/
