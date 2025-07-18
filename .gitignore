@@ -6,4 +6,6 @@
 *.dbf
 *.fpt
 *.cdx
+*.zip
+*.rar
 obj/
